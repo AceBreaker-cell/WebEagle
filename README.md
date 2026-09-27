@@ -1,12 +1,17 @@
+#### <p align ="center"> Version 2.0.1</p>
+#### <p align ="center"> Modified by Albatany</p>
+
 <p align="center">
-	<img src="https://i.imgur.com/GNWwMFb.png" width="600px">
+	<img width="1455" height="1081" alt="WebEagleLogo" src="https://github.com/user-attachments/assets/5562cba0-ab38-4f05-9cef-b24570a22cae" />
 </p>
 
-#### Version 2.0.0
-#### By R3D#@0R_2H1N A.K.A Tuhinshubhra
-All in one tool for **Information Gathering** and **Vulnerability Scanning**
+<p align="center">All in one tool for Information Gathering and Vulnerability Scanning</p>
 
-# Scans That You Can Perform Using RED HAWK :
+<p align="center">Website Scanning | Subdomain Scanning | CMS Detection</p>
+
+<p align="center">SQL Injection | XSS | LFI | RCE | RFI | OSINT</p>
+
+# Scans That You Can Perform Using WEB EAGLE :
 + Basic Scan
 	- Site Title **NEW**
 	- IP Address
@@ -81,9 +86,9 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + All set, now you can enjoy the bloggers view.
 
 # Usage:
-- git clone `https://github.com/Tuhinshubhra/RED_HAWK`
-- cd RED_HAWK
-- php rhawk.php
+- git clone `https://github.com/AceBreaker-cell/WebEagle`
+- cd WebEagle
+- php webeagle.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
 - Select whether The Site Runs On HTTPS or not.
 - Select the type of scan you want to perform
@@ -108,13 +113,8 @@ Watch The Video TO See How To Solve This Isuue : https://www.youtube.com/watch?v
 alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
-Want to contribute to RED HAWK or point out something wrong? Just create a new issue here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new
+Want to contribute to Web Eagle or point out something wrong? Just create a new issue here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new
 I'd love to hear from you.
-
-# Support and Donations
-Found RED HAWK cool? well you could buy me a cup of tea ;) (no alcohol plz xD) just send any amount of donations (in BTC) to this address : **1NbiQidWWVVhWknsfPSN1MuksF8cbXWCku**
-
-Can't donate? well that's no problem just drop a **THANK YOU** this will motivate me to create more exciting stuffs for you ;)
 
 # TODOs
 
