@@ -108,12 +108,15 @@ RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Conten
 
 Watch The Video TO See How To Solve This Isuue : https://www.youtube.com/watch?v=QuFPY9NFTM8
 
+This video is made by the original maker of this code, im just improving and make the code better, happy scraping website you guys!
+
 # Video Demonstration
 <a href="https://www.youtube.com/watch?v=Jt9kBFiJDrE" target="_blank"><img src="https://i.imgur.com/SXDWohl.png" 
 alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
-Want to contribute to Web Eagle or point out something wrong? Just create a new issue here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new
+
+Want to contribute to Web Eagle or point out something wrong? Just create a new issue here: https://github.com/AceBreaker-cell/WebEagle/issues/new
 I'd love to hear from you.
 
 # TODOs
